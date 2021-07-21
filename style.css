@@ -1,0 +1,15 @@
+.award-form{
+    margin-top:2rem;
+    margin-bottom: 2rem;
+
+}
+
+img{
+    height:450px !important;
+    width:100% !important;
+}
+
+.carousel-caption p{
+    color:orange;
+    font-size: 2rem !important;
+}
